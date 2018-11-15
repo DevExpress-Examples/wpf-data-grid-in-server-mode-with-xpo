@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [NorthwindXpo.cs](./CS/XpoNorthwindServerMode/NorthwindXpo.cs) (VB: [NorthwindXpo.vb](./VB/XpoNorthwindServerMode/NorthwindXpo.vb))
+* [Window1.xaml](./CS/XpoNorthwindServerMode/Window1.xaml) (VB: [Window1.xaml](./VB/XpoNorthwindServerMode/Window1.xaml))
+* [Window1.xaml.cs](./CS/XpoNorthwindServerMode/Window1.xaml.cs) (VB: [Window1.xaml](./VB/XpoNorthwindServerMode/Window1.xaml))
+<!-- default file list end -->
 # How to use DXGrid in Server Mode with XPO
 
 
